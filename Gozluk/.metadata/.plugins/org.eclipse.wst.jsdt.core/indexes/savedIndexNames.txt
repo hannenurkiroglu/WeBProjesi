@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Burcu\eclipse-workspace\Gozluk\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2701438127.index
+2934764145.index
+2966819045.index
+4158079036.index
+2611919646.index

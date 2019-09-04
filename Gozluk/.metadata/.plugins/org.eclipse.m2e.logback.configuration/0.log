@@ -1,0 +1,8 @@
+2018-05-04 22:59:32,400 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-04 23:00:25,667 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: akset:akset:0.0.1-SNAPSHOT @ C:\Users\Burcu\eclipse-workspace\akset\pom.xml.
+2018-05-04 23:00:38,447 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ETicaret:ETicaret:0.0.1-SNAPSHOT @ C:\Users\Burcu\eclipse-workspace\ETicaret\pom.xml.
+2018-05-04 23:00:38,462 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: ETicaret:ETicaret:0.0.1-SNAPSHOT @ C:\Users\Burcu\eclipse-workspace\ETicaret\pom.xml.
+2018-05-04 23:00:45,048 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-04 23:00:45,058 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Burcu\eclipse-workspace\ETicaret\src\main\resources
+2018-05-04 23:00:45,062 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1254 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-04 23:00:45,070 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Burcu\eclipse-workspace\ETicaret\src\test\resources
